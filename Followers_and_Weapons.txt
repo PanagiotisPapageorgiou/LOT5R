@@ -1,0 +1,97 @@
+Followers
+==============
+-Type		: FOOTSOLDIER
+ Cost		: 0
+ Attack Bonus	: 2
+ Defense Bonus	: 0
+ Minimum Honor	: 1
+ Effect Bonus	: 1
+ Effect Cost	: 2
+
+-Type		: ARCHER
+ Cost		: 0
+ Attack Bonus	: 0
+ Defense Bonus 	: 2
+ Minimum Honor	: 1
+ Effect Bonus	: 1
+ Effect Cost	: 2
+
+-Type		: SIEGER
+ Cost		: 5
+ Attack Bonus	: 3
+ Defense Bonus	: 3
+ Minimum Honor	: 2
+ Effect Bonus	: 2
+ Effect Cost	: 3
+
+-Type		: CAVALRY
+ Cost		: 3
+ Attack Bonus	: 4
+ Defense Bonus	: 2
+ Minimum Honor	: 3
+ Effect Bonus	: 3
+ Effect Cost	: 4
+
+-Type		: NAVAL
+ Cost		: 3
+ Attack Bonus	: 2
+ Defense Bonus	: 4
+ Minimum Honor	: 3
+ Effect Bonus	: 3
+ Effect Cost	: 4
+
+-Type		: BUSHIDO
+ Cost		: 8
+ Attack Bonus	: 8
+ Defense Bonus	: 8
+ Minimum Honor	: 6
+ Effect Bonus	: 3
+ Effect Cost	: 8
+
+Items
+=========
+-Type		: KATANA
+ Cost		: 5
+ Attack Bonus	: 3
+ Defense Bonus	: 3
+ Minimum Honor	: 1
+ Effect Bonus	: 5
+ Effect Cost	: 6
+ Durability	: 4
+
+
+-Type		: SPEAR
+ Cost		: 5
+ Attack Bonus	: 2
+ Defense Bonus	: 2
+ Minimum Honor	: 1
+ Effect Bonus	: 4
+ Effect Cost	: 6
+ Durability	: 4
+
+-Type		: BOW
+ Cost		: 10
+ Attack Bonus	: 4
+ Defense Bonus	: 4
+ Minimum Honor	: 2
+ Effect Bonus	: 4
+ Effect Cost	: 10
+ Durability	: 6
+
+-Type		: NINJATO
+ Cost		: 15
+ Attack Bonus	: 6
+ Defense Bonus	: 6
+ Minimum Honor	: 3
+ Effect Bonus	: 6
+ Effect Cost	: 10
+ Durability	: 8
+
+-Type 		: WAKIZASHI
+ Cost		: 20
+ Attack Bonus	: 8
+ Defense Bonus	: 8
+ Minimum Honor	: 6
+ Effect Bonus	: 8
+ Effect Cost	: 15
+ Durability	: 10
